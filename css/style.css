@@ -544,16 +544,7 @@
 
 
 
-	.main-header .sticky-header .main-menu .navigation>li>a {
-		color: #fff;
-		padding: 17px 15px !important;
-		line-height: 30px;
-		font-size: 15px;
-		font-weight: 500;
-		min-height: 0px;
-		background: none;
-		border: 0px;
-	}
+		
 
 	.main-header .main-menu .navigation>li.dropdown>a:after {
 		display: inline-block;
