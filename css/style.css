@@ -6256,6 +6256,23 @@
 		animation: animateText 1.5s ease-in-out forwards;
 	}
 
+	.partners {
+		background-color: #efefef;
+		padding: 2em 0;
+	}
+
+	.partner-logo {
+		height: 200px;
+		width: 100%;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+
+	.partner-details  {
+		margin-top: 1em;
+	}
+
 	@keyframes animateText {
 		0% {
 			font-size: 0;
