@@ -541,11 +541,6 @@
 		transform: scaleY(1);
 	}
 
-
-
-
-		
-
 	.main-header .main-menu .navigation>li.dropdown>a:after {
 		display: inline-block;
 		width: 0;
@@ -1532,6 +1527,8 @@
 
 	.about-img-pro {
 		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
 		height: 100%;
 		left: 0;
 		position: absolute;
@@ -6258,10 +6255,16 @@
 		background-size: contain;
 		background-repeat: no-repeat;
 		background-position: center;
+		background-color: rgba(0, 0, 0, .05);
 	}
 
 	.partner-details  {
+		border-top: #efefef solid 1px;
 		margin-top: 1em;
+	}
+
+	.partners .single-item {
+		height: 350px;
 	}
 
 	@keyframes animateText {
