@@ -1,2 +1,2 @@
-# ebim Electronik
+# Ebim Electronik
 https://elbimelektronik.uz/
