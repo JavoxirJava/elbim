@@ -1,2 +1,2 @@
 # ebim Electronik
-elbimelektronik.uz(https://elbimelektronik.uz/)
+https://elbimelektronik.uz/
